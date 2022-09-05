@@ -1,0 +1,58 @@
+export const collections = [
+  {
+    id: 1,
+    image: "images/c_formal_gray_shirt.png",
+    name: "Gray Shirt",
+    filter: "BEST",
+    price: "$ 49.99",
+  },
+  {
+    id: 2,
+    image: "images/c_pant_girl.png",
+    name: "Girl Pant",
+    filter: "FEAT",
+    price: "$ 59.99",
+  },
+  {
+    id: 3,
+    image: "images/c_polo-shirt.png",
+    name: "Polo Shirt",
+    filter: "NEW",
+    price: "$ 36.99",
+  },
+  {
+    id: 4,
+    image: "images/c_shirt-girl.png",
+    name: "Girl Shirts",
+    filter: "BEST",
+    price: "$ 32.99",
+  },
+  {
+    id: 5,
+    image: "images/c_t-shirt_men.png",
+    name: "T-shirt Men",
+    filter: "FEAT",
+    price: "$ 25.99",
+  },
+  {
+    id: 6,
+    image: "images/c_tunic-shirt_girl.png",
+    name: "T-shirt Girl",
+    filter: "NEW",
+    price: "$ 35.99",
+  },
+  {
+    id: 7,
+    image: "images/c_undershirt.png",
+    name: "Undershirt",
+    filter: "BEST",
+    price: "$ 45.99",
+  },
+  {
+    id: 8,
+    image: "images/c_western-shirt.png",
+    name: "Western Shirt",
+    filter: "FEAT",
+    price: "$ 45.99",
+  },
+];
